@@ -1,3 +1,5 @@
+# Make sure to read read-me.txt 
+
 from tkinter import *
 import datetime
 
