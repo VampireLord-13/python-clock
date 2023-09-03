@@ -1,0 +1,23 @@
+DETAILS
+
+Tkinter - Python offers multiple options for developing GUI (Graphical User Interface). Out of all the GUI methods, tkinter is the most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications.
+
+Date Time - In Python, date and time are not data types of their own, but a module named DateTime can be imported to work with the date as well as time. Python Datetime module comes built into Python, so there is no need to install it externally. 
+
+Def - Python def keyword is used to define a function, it is placed before a function name that is provided by the user to create a user-defined function.
+
+.title() - .title() function is used to add the title for the Tkinter window.
+
+.geometry() - .geometry() function is used to add the diameters of the Tkinter window. (in x and y form)
+
+Label() - Label() function is used to add a label to the Tkinter window.
+
+text - text is used to define that what should be displayed in a Label.
+
+font - font function is used to tell the font of the Label.
+
+bg and fg - bg is used to tell the background color of the Label, window or Entry. fg is used to tell the foreground color (text colour) of the Label.
+
+.place() - .place() function is used to tell the position of a Tkinter widget.
+
+.mainloop() - .mainloop() is used at the end of a Tkinter code.
